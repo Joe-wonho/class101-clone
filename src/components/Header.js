@@ -157,7 +157,7 @@ const Header = () => {
       <HeaderContainer>
         <HeaderSection1>
           <div>
-            <a href="#">CLASS101</a>
+            <a href="/">CLASS101</a>
           </div>
           <div className="search-box">
             <p className="media-p">구독</p>

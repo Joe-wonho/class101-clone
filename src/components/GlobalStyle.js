@@ -22,6 +22,12 @@ font-size: 100%;
 font: inherit;
 vertical-align: baseline;
 };
+a {
+    color: rgb(26,26,26); 
+    text-decoration: none; 
+    outline: none
+};
+
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
